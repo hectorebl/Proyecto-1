@@ -26,7 +26,7 @@ h1{
     font-size: 1em;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
-    width: 92.5%;
+    width: 100%;
 }
 h2{
     text-align:center;
@@ -81,7 +81,7 @@ a {
   /**************************************************************************/
   /*                            Estilo de monitor                           */
   /**************************************************************************/
-  
+
   @media (min-width: 1024px){
     *{
       font-family: "Inter", sans-serif;
